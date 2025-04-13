@@ -1,4 +1,3 @@
-
           A             ┌──────────────────────────────────────┐
          ooo              OS: Ubuntu trixie/sid (noble) on Windows x86_64
         ooooo             Users: lucy
@@ -10,4 +9,3 @@
   ooooo  <oooooooo>       Local IP: 172.30.85.210
  ooooo      <oooooo>    └──────────────────────────────────────┘
 ooooo          <oooo>
-                      
