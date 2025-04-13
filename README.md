@@ -4,7 +4,6 @@
   ooooo
  ooooooo
 ooooooooo
-```
 
 
 ![OS](https://img.shields.io/badge/OS-Ubuntu%20Trixie--sid%20(noble)%20on%20Windows-x86_64-blue?logo=ubuntu)
@@ -15,3 +14,4 @@ ooooooooo
 ![CPU](https://img.shields.io/badge/CPU-Intel%20i7--10700K%20@%203.7GHz-orange)
 ![Memory](https://img.shields.io/badge/Memory-0.67%20GiB%20%2F%2015.58%20GiB-red)
 ![Local%20IP](https://img.shields.io/badge/Local_IP-172.30.85.210-yellow)
+```
